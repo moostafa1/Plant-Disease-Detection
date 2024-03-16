@@ -1,0 +1,4 @@
+input_size: 224
+hidden_layers: [512, 256]
+output_size: 38
+epochs: 15
